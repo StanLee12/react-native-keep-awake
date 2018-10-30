@@ -1,11 +1,11 @@
 {
-  "name": "react-native-keep-awake",
-  "version": "4.0.0",
+  "name": "react-native-keep-awake-compatibility",
+  "version": "1.0.0",
   "description": "Keep the screen from going to sleep. iOS and Android.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corbt/react-native-keep-awake.git"
+    "url": "git+https://github.com/StanLee12/react-native-keep-awake.git"
   },
   "bugs": {
     "url": "https://github.com/corbt/react-native-keep-awake/issues"
@@ -21,5 +21,8 @@
     "sleep"
   ],
   "author": "Kyle Corbitt",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
